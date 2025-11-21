@@ -73,9 +73,3 @@ This dashboard was created to demonstrate:
 - How Excel can be used as a lightweight BI tool without Power BI  
 
 It is suitable for sales teams, managers, and data-driven decision-making.
-
----
-
-## ✨ Author
-**Alekhya Gudibandla**
-
